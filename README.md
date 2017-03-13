@@ -6,7 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary----this is a swift demo =, called FoodPin
+* Quick summary----this is a swift demo, called FoodPin
 * Version:1
 * [Learn Markdown](https://github.com/Jane27/swift_demo.git)
 
