@@ -10,22 +10,19 @@ This README would normally document whatever steps are necessary to get your app
 * Version:1
 * [Learn Markdown](https://github.com/Jane27/swift_demo.git)
 
-### How do I get set up? ###
+App created by following the tutorials from AppCoda at http://www.appcoda.com/swift/
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Technologies Learned/Used for this app
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Built entirely in Swift!
+CoreData
+MapKit
+Animations with Views
+CloudKit
+Custom Tableview Cells
+PageViewController for tutorial section
+Search functionality
+WebViews
+Table Views
+Navigation Controllers
+Segues
