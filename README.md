@@ -23,10 +23,17 @@ MapKit
 Animations with Views
 
 CloudKit
+
 Custom Tableview Cells
+
 PageViewController for tutorial section
+
 Search functionality
+
 WebViews
+
 Table Views
+
 Navigation Controllers
+
 Segues
